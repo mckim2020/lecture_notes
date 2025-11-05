@@ -1,5 +1,5 @@
 # Lecture Notes
-Lecture notes and codes for courses at Stanford university
+Lecture notes and codes for courses at Stanford university (and KAIST)
 
 ## Introduction to Statistical Mechanics (ME346A)
 
